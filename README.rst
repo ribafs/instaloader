@@ -32,7 +32,11 @@
 ::
 
     $ pip3 install instaloader
+or
 pip3 install instaloader --break-system-packages
+or
+apt install pipx
+pipx install instaloader
 
     $ instaloader profile [profile ...]
 
