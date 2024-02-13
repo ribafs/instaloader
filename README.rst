@@ -32,6 +32,7 @@
 ::
 
     $ pip3 install instaloader
+pip3 install instaloader --break-system-packages
 
     $ instaloader profile [profile ...]
 
